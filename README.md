@@ -1,6 +1,4 @@
-# Image Classification Flutter App
+# Image Classification using Flutter 
 
-Image Classification Example.
 
-![Demo](demo.gif)
 
